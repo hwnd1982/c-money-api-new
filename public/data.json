@@ -908,7 +908,7 @@
     "exchange": {
         "AUD/BTC": 0.01,
         "AUD/CHF": 0.01,
-        "AUD/CNH": 0.01,
+        "AUD/CNH": 0.03,
         "AUD/EUR": 67.16,
         "AUD/JPY": 92.11,
         "AUD/NZD": 0.02,
@@ -1001,7 +1001,7 @@
         "UAH/ETH": 0.05,
         "UAH/EUR": 79.53,
         "UAH/JPY": 15.14,
-        "UAH/USD": 79.65,
+        "UAH/USD": 0.32,
         "USD/AUD": 0.02,
         "USD/BYR": 57.63,
         "USD/CAD": 0.04,
